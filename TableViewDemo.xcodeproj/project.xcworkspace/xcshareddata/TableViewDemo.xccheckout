@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E555017-B633-4198-BC7F-A440155AF626</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1992516-29B2-4316-B527-3D89A952AC6E</key>
+		<string>https://github.com/noelart/iOS_Demos</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1992516-29B2-4316-B527-3D89A952AC6E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/noelart/iOS_Demos</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1992516-29B2-4316-B527-3D89A952AC6E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1992516-29B2-4316-B527-3D89A952AC6E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_Demos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
